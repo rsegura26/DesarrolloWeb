@@ -1,0 +1,40 @@
+header{
+    background-color:rgba(150, 14, 138, 0.774);
+    color: rgb(254, 255, 240);
+    font-style: inherit;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+}
+
+#color{
+    background-color: rgb(150, 28, 28); 
+}
+.jumbotron{
+    box-shadow: 3px 3px 3px blanchedalmond;
+    color: black;
+}
+
+#text{
+    background-color: gainsboro;
+    color: white;
+    font-size: 50px;
+    font-style: normal;
+    
+}
+
+
+body {
+    height: 100vh;
+    width: 100%;
+    background-color: #35dad2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+  }
+  
+  h3 {
+    svg {
+      width: 20em;
+    }
+  }
